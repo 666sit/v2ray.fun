@@ -1,10 +1,11 @@
 # V2ray.fun
+
 [![Telegram Group][tgbadge]][tggroup]
 [![License][licensebadge]][licenselink]
 [![PRs Welcome][prbadge]][prlink]
 ![Made With Love][lovebadge]
 
-术业有专攻，一部分人一辈子都不会搞懂这些网络，但是他们仍然有权利自由地访问互联网，懂技术的人不一定可以通过技术改变世界。
+> 术业有专攻，一部分人一辈子都不会搞懂这些网络，但是他们仍然有权利自由地访问互联网，懂技术的人不一定可以通过技术改变世界。
 
 欢迎加入 [Telegram 讨论群](https://t.me/vimchina)，欢迎你的任何建议，需求以及求助。
 
